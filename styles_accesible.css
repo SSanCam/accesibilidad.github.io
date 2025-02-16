@@ -22,7 +22,7 @@ body::before {
     background-image: url('images.webp'); /* Cambia esto por la URL de la imagen */
     background-size: cover;
     background-position: center;
-    opacity: 0.3; /* Controla la transparencia */
+    opacity: 0.15; /* Controla la transparencia */
     z-index: -1; /* Mantiene la imagen detrás del contenido */
 }
 
