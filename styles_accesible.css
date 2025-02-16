@@ -107,7 +107,6 @@ a:focus, button:focus, input:focus, textarea:focus {
 img {
     max-width: 100%;
     height: auto;
-    alt: "";
 }
 
 /* Asegurar accesibilidad en formularios */
